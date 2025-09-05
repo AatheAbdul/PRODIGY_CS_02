@@ -53,11 +53,11 @@ python image_cipher.py
 
 4. Enter:
 
--Input image path (e.g., photo.jpg)
+    -Input image path (e.g., photo.jpg)
 
--Output image path (e.g., photo_encrypted.png)
+    -Output image path (e.g., photo_encrypted.png)
 
--Secret key (an integer)
+    -Secret key (an integer)
 
 
 ---
