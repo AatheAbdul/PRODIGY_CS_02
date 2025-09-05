@@ -35,6 +35,7 @@ Install Pillow with:
 
 ```bash
 pip install pillow
+```
 
 ---
 
@@ -46,7 +47,7 @@ pip install pillow
 
 ```bash
 python image_cipher.py
-
+```
 
 3. Choose whether to Encrypt (e) or Decrypt (d).
 
